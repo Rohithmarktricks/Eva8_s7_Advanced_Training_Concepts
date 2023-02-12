@@ -196,17 +196,17 @@ Test set: Average loss: 0.0049, Accuracy: 8600/10000 (86.00%)
 ```
 
 #### Loss (Training and Testing)
-[Loss](/images/Loss.png)
+![Loss](/images/Loss.png)
 
 #### Accuracy (Training and Testing)
-[Accuracy](/images/Acc.png)
+![Accuracy](/images/Acc.png)
 
 #### Misclassified Images
-[Misclassified Images](/images/misclassified_images.png)
+![Misclassified Images](/images/misclassified_images.png)
 
 #### CAMs of Misclassified Images
-[CAM1](/images/maps1.png)
-[CAM2](/images/maps2.png)
-[CAM3](/images/maps3.png)
-[CAM4](/images/maps4.png)
-[CAM5](/images/maps5.png)
+![CAM1](/images/maps1.png)
+![CAM2](/images/maps2.png)
+![CAM3](/images/maps3.png)
+![CAM4](/images/maps4.png)
+![CAM5](/images/maps5.png)
